@@ -1,2 +1,1 @@
-# Coursera_Capstone - Miguel Lira
-Miguelira Coursera
+# Coursera_Capstone - 
